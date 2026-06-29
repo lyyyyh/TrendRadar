@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T11:02:23.413363+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-06-29T16:12:59.074047+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -73,11 +73,12 @@
             13,
             14,
             15,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 11时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时56分 ~ 16时12分]"
         },
         {
           "title": "伊朗队队长怒斥：这届世界杯是场灾难",
@@ -337,6 +338,17 @@
           "time_info": "[00时56分 ~ 01时58分]"
         },
         {
+          "title": "伊朗公布向美军发射导弹视频",
+          "url": "https://news.ifeng.com/c/8uLjWOc0XmD",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "美国官员表示，与伊朗的技术谈判预计将在谅解备忘录的各个领域继续进行，双方目前将暂时保持克制，船只可以自由通行。",
           "url": "https://flash.jin10.com/detail/20260629072439714800",
           "source": "金十数据",
@@ -359,13 +371,24 @@
           "time_info": "00时56分"
         },
         {
+          "title": "市场消息：消息人士称，伊朗和美国的技术团队将在未来几天在多哈会面，讨论谅解备忘录的实施事宜。",
+          "url": "https://flash.jin10.com/detail/20260629160054919800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "霍尔木兹海峡24小时状况监控：进入的油轮数量非常有限，只有一批油轮在美国护航下经由阿曼航线进入。其他进入的油轮均受到制裁，且与伊朗有关。",
           "url": "https://flash.jin10.com/detail/20260629103210890800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -508,6 +531,18 @@
           "time_info": "[00时56分 ~ 06时52分]"
         },
         {
+          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
+          "url": "https://www.cls.cn/detail/2411269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 16时12分]"
+        },
+        {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
           "url": "https://wallstreetcn.com/livenews/3125682",
           "source": "华尔街见闻-快讯",
@@ -544,17 +579,6 @@
           "time_info": "[03时11分 ~ 04时51分]"
         },
         {
-          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
-          "url": "https://www.cls.cn/detail/2411269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
           "title": "特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照",
           "url": "https://www.cls.cn/detail/2411031",
           "source": "财联社热门",
@@ -580,7 +604,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -591,8 +615,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 11时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 16时12分]"
+        },
+        {
+          "title": "美股AI芯片股盘前走高，高通(QCOM.O)涨超2%，AMD(AMD.O)涨1.9%，博通(AVGO.O)涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260629160644163800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘前涨超1%，此前公司被纳入纳斯达克100指数，7月7日起生效。",
+          "url": "https://flash.jin10.com/detail/20260629160420874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "高盛：美股或再迎强劲财报季 经济增长和AI热潮料推动每股收益增长",
+          "url": "https://wallstreetcn.com/livenews/3125965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -620,7 +677,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -647,6 +704,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时58分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 提出的 DSpark 推理加速方案？",
+          "url": "https://www.zhihu.com/question/2054243716655854373",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     },
@@ -679,7 +747,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
