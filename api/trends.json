@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T08:02:11.232603+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-07-03T10:57:08.362650+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 08时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时24分 ~ 10时57分]"
         },
         {
           "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
@@ -123,6 +123,17 @@
           "time_info": "[01时24分 ~ 05时58分]"
         },
         {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
           "title": "特朗普重申：伊朗将从美国购买食品",
           "url": "https://flash.jin10.com/detail/20260703060408656800",
           "source": "金十数据",
@@ -219,6 +230,18 @@
           "time_info": "[06时58分 ~ 08时02分]"
         },
         {
+          "title": "特朗普发AI视频变身医生开可乐药方",
+          "url": "https://www.toutiao.com/trending/7657679186635030554/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
+        },
+        {
           "title": "美国总统特朗普：美国必须在人工智能领域领先。",
           "url": "https://flash.jin10.com/detail/20260703053041502800",
           "source": "金十数据",
@@ -236,7 +259,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -291,7 +314,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -324,7 +347,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -632,9 +655,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普公开“劝捐”：看好马斯克捐赠SpaceX股权",
+          "url": "https://flash.jin10.com/detail/20260703100626191800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "特朗普重申：在美国选民身份证明问题解决前不会签署住房法案",
@@ -651,29 +685,31 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2415963",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 10时57分]"
         },
         {
           "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
           "url": "https://www.cls.cn/detail/2415948",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 10时57分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
@@ -698,6 +734,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时58分]"
+        },
+        {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
           "title": "周四（7月2日），美股降息赢家指数跌0.02%，报98.42点，在美国非农就业报告出炉后高开低走，整体呈现出W形走势，本周累计下跌1.58%。",
@@ -790,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美股今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260703102241826800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "美股收盘：芯片股重挫 闪迪大跌14%",
@@ -1076,6 +1134,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时06分 ~ 08时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月03日（周五）上海金早盘价为911.31元/克，较国际金价(911.57元/克)，低0.26元/克",
+          "url": "https://flash.jin10.com/detail/20260703102229667800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },
