@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T00:17:13.284072+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-12T00:45:03.308951+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗革命卫队发言人表示，今天波斯湾没有美国军舰驻扎。",
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -45,22 +45,48 @@
           "url": "https://wallstreetcn.com/livenews/3148159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时45分]"
         },
         {
           "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
           "url": "https://www.zhihu.com/question/2070450417981469090",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
+        },
+        {
+          "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
+          "url": "https://wallstreetcn.com/livenews/3148153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "time_info": "[00时17分 ~ 00时45分]"
+        },
+        {
+          "title": "伊朗称：条件未满足，霍尔木兹海峡将持续封锁",
+          "url": "https://wallstreetcn.com/livenews/3148152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时45分]"
         },
         {
           "title": "美国国务院发言人：我们正与财政部采取行动，继续对伊朗实施极限施压。",
@@ -69,7 +95,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -80,7 +106,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -91,31 +117,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
         {
-          "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
-          "url": "https://wallstreetcn.com/livenews/3148153",
+          "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
+          "url": "https://wallstreetcn.com/livenews/3148166",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "00时45分"
         },
         {
-          "title": "伊朗称：条件未满足，霍尔木兹海峡将持续封锁",
-          "url": "https://wallstreetcn.com/livenews/3148152",
+          "title": "伊朗革命卫队发言人：今日波斯湾海域没有美国军舰部署。",
+          "url": "https://wallstreetcn.com/livenews/3148164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "00时45分"
         },
         {
           "title": "伊朗国家电视台（IRIB）援引最高领袖顾问的话：霍尔木兹海峡将继续关闭，直至满足相关条件。",
@@ -124,7 +150,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         }
@@ -132,7 +158,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -142,8 +168,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -153,30 +179,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
           "url": "https://wallstreetcn.com/livenews/3148157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时45分]"
         },
         {
           "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3148156",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时45分]"
         },
         {
           "title": "美国总统特朗普：纽约市必须立即停止征收第二居所税。",
@@ -185,7 +213,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -196,7 +224,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
         },
@@ -207,9 +235,53 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
+          "url": "https://flash.jin10.com/detail/20260812001133689800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们对此决定表示感谢，俄罗斯并未要求任何回报。",
+          "url": "https://flash.jin10.com/detail/20260812001111070800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：在我与俄罗斯总统普京的讨论后，俄罗斯已同意释放他。",
+          "url": "https://flash.jin10.com/detail/20260812001107875800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：美国公民罗伯特·吉尔曼，一名前美国海军陆战队员，正在回家。",
+          "url": "https://flash.jin10.com/detail/20260812001057496800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时45分"
         }
       ]
     },
@@ -225,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -236,8 +308,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -247,8 +319,53 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 00时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
+          "url": "https://flash.jin10.com/detail/20260812003202953800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "Brad Lightcap宣布从OpenAI离职，称：将向前看，将“尝试一些新的东西”。",
+          "url": "https://wallstreetcn.com/livenews/3148170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时16分 ~ 00时17分]"
+          "time_info": "[00时44分 ~ 00时45分]"
         }
       ]
     }
